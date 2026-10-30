@@ -1,0 +1,13 @@
+# 构建上下文瘦身：不要把构建产物、缓存、材料包带进镜像
+**/build/
+**/install/
+**/log/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+experiments/
+submit/
+*.tar.gz
+*.zip
+.git/
+.Trash-0/

@@ -1,0 +1,8 @@
+rmtc_bot:
+  ros__parameters:
+    team: "A"
+    team_name: "图灵队"
+    ai_gateway: "http://127.0.0.1:8080/v1/chat/completions"
+    ai_model: ""
+    decision_config: "decision_config.json"
+    log_every: 25

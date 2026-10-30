@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+contestant_ws/build/
+contestant_ws/install/
+contestant_ws/log/

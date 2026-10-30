@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>rmtc_bot</name>
+  <version>1.1.1</version>
+  <description>RMTC 机甲大师图灵对决赛参赛程序：自主采集 / 资源对抗 / LLM 事件理解</description>
+  <maintainer email="team@example.com">RMTC Team</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

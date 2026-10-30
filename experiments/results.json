@@ -1,0 +1,1902 @@
+[
+  {
+    "map": "01-open-field",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 445,
+      "defend": 15,
+      "wait": 16
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 45.0,
+    "resource": 170,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 474,
+      "defend": 10,
+      "wait": 1
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 45.0,
+    "resource": 170,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 477,
+      "defend": 8
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 37.5,
+    "resource": 50,
+    "damage": 1330.0,
+    "missions": 2,
+    "deaths": 13,
+    "stall": 1,
+    "actions": {
+      "move": 385,
+      "attack": 65,
+      "wait": 11
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 37.5,
+    "resource": 60,
+    "damage": 250.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 489,
+      "attack": 8
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 45.0,
+    "resource": 60,
+    "damage": 1230.0,
+    "missions": 3,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 413,
+      "attack": 53,
+      "wait": 4
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 0,
+    "actions": {
+      "move": 478,
+      "defend": 7
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 37.5,
+    "resource": 90,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 1,
+    "actions": {
+      "move": 480,
+      "wait": 14
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 45.0,
+    "resource": 130,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 0,
+    "actions": {
+      "move": 497
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 960.0,
+    "missions": 3,
+    "deaths": 10,
+    "stall": 0,
+    "actions": {
+      "move": 398,
+      "attack": 46,
+      "wait": 26
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 57.5,
+    "resource": 110,
+    "damage": 930.0,
+    "missions": 3,
+    "deaths": 8,
+    "stall": 2,
+    "actions": {
+      "move": 398,
+      "attack": 43,
+      "defend": 5,
+      "wait": 30
+    }
+  },
+  {
+    "map": "01-open-field",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 60.0,
+    "resource": 130,
+    "damage": 1520.0,
+    "missions": 3,
+    "deaths": 13,
+    "stall": 2,
+    "actions": {
+      "move": 370,
+      "attack": 69,
+      "defend": 1,
+      "wait": 21
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 495,
+      "defend": 2
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 40.0,
+    "resource": 100,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 478,
+      "defend": 9,
+      "wait": 1
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 40.0,
+    "resource": 100,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 2,
+    "actions": {
+      "move": 493,
+      "wait": 2,
+      "defend": 2
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 42.5,
+    "resource": 50,
+    "damage": 960.0,
+    "missions": 3,
+    "deaths": 11,
+    "stall": 1,
+    "actions": {
+      "move": 419,
+      "attack": 48
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 35.0,
+    "resource": 40,
+    "damage": 850.0,
+    "missions": 2,
+    "deaths": 11,
+    "stall": 1,
+    "actions": {
+      "move": 314,
+      "attack": 47,
+      "wait": 106
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 47.5,
+    "resource": 70,
+    "damage": 1900.0,
+    "missions": 3,
+    "deaths": 19,
+    "stall": 1,
+    "actions": {
+      "move": 348,
+      "attack": 95
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 3,
+    "stall": 0,
+    "actions": {
+      "move": 487,
+      "defend": 4
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 42.5,
+    "resource": 110,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 0,
+    "actions": {
+      "move": 485,
+      "wait": 10,
+      "defend": 2
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 40.0,
+    "resource": 100,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 496,
+      "defend": 1
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 42.5,
+    "resource": 50,
+    "damage": 1080.0,
+    "missions": 3,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 409,
+      "attack": 38,
+      "defend": 2,
+      "wait": 27
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 42.5,
+    "resource": 50,
+    "damage": 1020.0,
+    "missions": 3,
+    "deaths": 11,
+    "stall": 1,
+    "actions": {
+      "move": 401,
+      "attack": 50,
+      "wait": 16
+    }
+  },
+  {
+    "map": "02-center-keep",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 45.0,
+    "resource": 60,
+    "damage": 740.0,
+    "missions": 3,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 421,
+      "attack": 33,
+      "defend": 5,
+      "wait": 20
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 6,
+    "stall": 1,
+    "actions": {
+      "move": 439,
+      "wait": 34,
+      "defend": 9
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 30.0,
+    "resource": 60,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 1,
+    "actions": {
+      "move": 487,
+      "wait": 4,
+      "defend": 3
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 3,
+    "stall": 1,
+    "actions": {
+      "move": 463,
+      "wait": 20,
+      "defend": 8
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 1200.0,
+    "missions": 3,
+    "deaths": 13,
+    "stall": 1,
+    "actions": {
+      "move": 323,
+      "wait": 80,
+      "attack": 58
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 650.0,
+    "missions": 3,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 444,
+      "wait": 4,
+      "attack": 31
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 730.0,
+    "missions": 3,
+    "deaths": 9,
+    "stall": 1,
+    "actions": {
+      "move": 416,
+      "wait": 22,
+      "attack": 35
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 27.5,
+    "resource": 50,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 481,
+      "wait": 16
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 493,
+      "wait": 4
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 27.5,
+    "resource": 50,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 480,
+      "wait": 4,
+      "defend": 4
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 530.0,
+    "missions": 2,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 437,
+      "wait": 4,
+      "defend": 6,
+      "attack": 29
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 2080.0,
+    "missions": 2,
+    "deaths": 20,
+    "stall": 1,
+    "actions": {
+      "move": 344,
+      "wait": 4,
+      "defend": 3,
+      "attack": 91
+    }
+  },
+  {
+    "map": "03-quadrants",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 900.0,
+    "missions": 3,
+    "deaths": 12,
+    "stall": 1,
+    "actions": {
+      "move": 410,
+      "wait": 4,
+      "defend": 7,
+      "attack": 45
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 45.0,
+    "resource": 150,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 6,
+    "stall": 1,
+    "actions": {
+      "move": 443,
+      "defend": 12,
+      "wait": 29
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 45.0,
+    "resource": 150,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 448,
+      "defend": 11,
+      "wait": 26
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 45.0,
+    "resource": 130,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 474,
+      "defend": 9,
+      "wait": 2
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 17.5,
+    "resource": 10,
+    "damage": 1800.0,
+    "missions": 0,
+    "deaths": 18,
+    "stall": 0,
+    "actions": {
+      "move": 241,
+      "attack": 88,
+      "wait": 117
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 17.5,
+    "resource": 10,
+    "damage": 1900.0,
+    "missions": 0,
+    "deaths": 19,
+    "stall": 0,
+    "actions": {
+      "move": 264,
+      "attack": 93,
+      "wait": 86
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 17.5,
+    "resource": 10,
+    "damage": 1440.0,
+    "missions": 0,
+    "deaths": 16,
+    "stall": 0,
+    "actions": {
+      "move": 215,
+      "attack": 75,
+      "wait": 162
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 42.5,
+    "resource": 110,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 467,
+      "wait": 12,
+      "defend": 9
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 42.5,
+    "resource": 110,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 3,
+    "stall": 1,
+    "actions": {
+      "move": 466,
+      "defend": 6,
+      "wait": 19
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 42.5,
+    "resource": 110,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 0,
+    "actions": {
+      "move": 469,
+      "wait": 14,
+      "defend": 5
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 57.5,
+    "resource": 110,
+    "damage": 740.0,
+    "missions": 3,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 414,
+      "attack": 43,
+      "defend": 3,
+      "wait": 10
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 57.5,
+    "resource": 110,
+    "damage": 1140.0,
+    "missions": 3,
+    "deaths": 11,
+    "stall": 1,
+    "actions": {
+      "move": 397,
+      "attack": 55,
+      "defend": 3,
+      "wait": 12
+    }
+  },
+  {
+    "map": "04-ring-corridor",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 60.0,
+    "resource": 130,
+    "damage": 920.0,
+    "missions": 3,
+    "deaths": 6,
+    "stall": 1,
+    "actions": {
+      "move": 437,
+      "attack": 32,
+      "defend": 5,
+      "wait": 8
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 476,
+      "defend": 9
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 37.5,
+    "resource": 90,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 468,
+      "defend": 11
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 27.5,
+    "resource": 50,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 1,
+    "actions": {
+      "move": 471,
+      "wait": 21,
+      "defend": 2
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 30.0,
+    "resource": 20,
+    "damage": 1280.0,
+    "missions": 2,
+    "deaths": 13,
+    "stall": 1,
+    "actions": {
+      "move": 395,
+      "attack": 66
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 30.0,
+    "resource": 20,
+    "damage": 710.0,
+    "missions": 2,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 439,
+      "attack": 37
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 30.0,
+    "resource": 20,
+    "damage": 860.0,
+    "missions": 2,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 428,
+      "attack": 42
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 1,
+    "actions": {
+      "move": 470,
+      "wait": 23,
+      "defend": 1
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 480,
+      "defend": 8
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 27.5,
+    "resource": 50,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 472,
+      "defend": 11,
+      "wait": 5
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 42.5,
+    "resource": 50,
+    "damage": 780.0,
+    "missions": 3,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 411,
+      "attack": 36,
+      "wait": 31,
+      "defend": 1
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 47.5,
+    "resource": 70,
+    "damage": 720.0,
+    "missions": 3,
+    "deaths": 9,
+    "stall": 1,
+    "actions": {
+      "move": 418,
+      "attack": 38,
+      "defend": 6,
+      "wait": 11
+    }
+  },
+  {
+    "map": "05-twin-towers",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 42.5,
+    "resource": 50,
+    "damage": 950.0,
+    "missions": 3,
+    "deaths": 12,
+    "stall": 1,
+    "actions": {
+      "move": 405,
+      "attack": 50,
+      "defend": 5,
+      "wait": 4
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 468,
+      "wait": 9,
+      "defend": 8
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 460,
+      "wait": 15,
+      "defend": 10
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 463,
+      "wait": 4,
+      "defend": 9
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 780.0,
+    "missions": 2,
+    "deaths": 9,
+    "stall": 1,
+    "actions": {
+      "move": 435,
+      "wait": 4,
+      "attack": 34
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 27.5,
+    "resource": 30,
+    "damage": 1610.0,
+    "missions": 1,
+    "deaths": 17,
+    "stall": 1,
+    "actions": {
+      "move": 365,
+      "wait": 4,
+      "attack": 80
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 1380.0,
+    "missions": 3,
+    "deaths": 15,
+    "stall": 1,
+    "actions": {
+      "move": 384,
+      "wait": 4,
+      "attack": 67
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 27.5,
+    "resource": 50,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 1,
+    "actions": {
+      "move": 490,
+      "wait": 4
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 27.5,
+    "resource": 50,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 454,
+      "wait": 32,
+      "defend": 2
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 477,
+      "wait": 20
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 600.0,
+    "missions": 2,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 422,
+      "wait": 4,
+      "defend": 7,
+      "attack": 37
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 42.5,
+    "resource": 50,
+    "damage": 1420.0,
+    "missions": 3,
+    "deaths": 15,
+    "stall": 1,
+    "actions": {
+      "move": 379,
+      "wait": 4,
+      "defend": 1,
+      "attack": 71
+    }
+  },
+  {
+    "map": "06-zigzag",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 520.0,
+    "missions": 3,
+    "deaths": 6,
+    "stall": 1,
+    "actions": {
+      "move": 439,
+      "wait": 13,
+      "defend": 5,
+      "attack": 25
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 45.0,
+    "resource": 120,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 3,
+    "stall": 1,
+    "actions": {
+      "move": 486,
+      "defend": 5
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 45.0,
+    "resource": 160,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 474,
+      "wait": 1,
+      "defend": 10
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 45.0,
+    "resource": 120,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 479,
+      "defend": 9
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 20.0,
+    "resource": 0,
+    "damage": 730.0,
+    "missions": 1,
+    "deaths": 9,
+    "stall": 1,
+    "actions": {
+      "move": 432,
+      "attack": 41
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 42.5,
+    "resource": 50,
+    "damage": 810.0,
+    "missions": 3,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 426,
+      "attack": 44
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 20.0,
+    "resource": 0,
+    "damage": 800.0,
+    "missions": 1,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 420,
+      "attack": 38,
+      "wait": 18
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 7.5,
+    "resource": 10,
+    "damage": 0.0,
+    "missions": 1,
+    "deaths": 5,
+    "stall": 0,
+    "actions": {
+      "move": 483,
+      "defend": 2
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 475,
+      "defend": 10
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 30.0,
+    "resource": 60,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 484,
+      "wait": 13
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 20.0,
+    "resource": 0,
+    "damage": 1340.0,
+    "missions": 1,
+    "deaths": 13,
+    "stall": 1,
+    "actions": {
+      "move": 395,
+      "attack": 64,
+      "defend": 2
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 35.0,
+    "resource": 40,
+    "damage": 1700.0,
+    "missions": 2,
+    "deaths": 17,
+    "stall": 0,
+    "actions": {
+      "move": 364,
+      "attack": 85
+    }
+  },
+  {
+    "map": "07-rich-center",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 40.0,
+    "resource": 40,
+    "damage": 960.0,
+    "missions": 3,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 395,
+      "attack": 50,
+      "wait": 25
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 35.0,
+    "resource": 80,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 469,
+      "defend": 12,
+      "wait": 1
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 35.0,
+    "resource": 80,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 463,
+      "defend": 9,
+      "wait": 16
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 35.0,
+    "resource": 80,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 464,
+      "defend": 8,
+      "wait": 16
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 50.4,
+    "resource": 90,
+    "damage": 430.0,
+    "missions": 3,
+    "deaths": 3,
+    "stall": 1,
+    "actions": {
+      "move": 475,
+      "attack": 16
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 47.5,
+    "resource": 70,
+    "damage": 1370.0,
+    "missions": 3,
+    "deaths": 14,
+    "stall": 1,
+    "actions": {
+      "move": 366,
+      "attack": 68,
+      "wait": 24
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 47.5,
+    "resource": 70,
+    "damage": 870.0,
+    "missions": 3,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 443,
+      "attack": 36
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 1,
+    "actions": {
+      "move": 473,
+      "wait": 21
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 32.5,
+    "resource": 70,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 0,
+    "actions": {
+      "move": 488
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 3,
+    "stall": 0,
+    "actions": {
+      "move": 490,
+      "defend": 1
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 60.0,
+    "resource": 120,
+    "damage": 1200.0,
+    "missions": 3,
+    "deaths": 12,
+    "stall": 1,
+    "actions": {
+      "move": 384,
+      "attack": 60,
+      "wait": 20
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 60.0,
+    "resource": 120,
+    "damage": 642.9,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 458,
+      "attack": 23,
+      "wait": 6,
+      "defend": 1
+    }
+  },
+  {
+    "map": "08-edge-resources",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 60.0,
+    "resource": 120,
+    "damage": 760.0,
+    "missions": 3,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 425,
+      "attack": 35,
+      "defend": 2,
+      "wait": 14
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 30.0,
+    "resource": 60,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 450,
+      "defend": 12,
+      "wait": 23
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 3,
+    "stall": 1,
+    "actions": {
+      "move": 481,
+      "defend": 6,
+      "wait": 4
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 37.5,
+    "resource": 90,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 464,
+      "defend": 12,
+      "wait": 9
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 37.0,
+    "resource": 40,
+    "damage": 400.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 468,
+      "attack": 20
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 980.0,
+    "missions": 2,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 406,
+      "attack": 49,
+      "wait": 16
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 47.5,
+    "resource": 70,
+    "damage": 1110.0,
+    "missions": 3,
+    "deaths": 12,
+    "stall": 1,
+    "actions": {
+      "move": 408,
+      "attack": 56
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 1,
+    "actions": {
+      "move": 494
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 25.0,
+    "resource": 40,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 2,
+    "stall": 0,
+    "actions": {
+      "move": 493,
+      "defend": 1
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 45.0,
+    "resource": 120,
+    "damage": 0.0,
+    "missions": 3,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 482,
+      "defend": 6
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 1633.3,
+    "missions": 2,
+    "deaths": 16,
+    "stall": 1,
+    "actions": {
+      "move": 370,
+      "attack": 81,
+      "defend": 1
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 47.5,
+    "resource": 70,
+    "damage": 720.0,
+    "missions": 3,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 407,
+      "attack": 35,
+      "wait": 30,
+      "defend": 4
+    }
+  },
+  {
+    "map": "09-two-lanes",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 52.5,
+    "resource": 90,
+    "damage": 1300.0,
+    "missions": 3,
+    "deaths": 13,
+    "stall": 0,
+    "actions": {
+      "move": 369,
+      "attack": 65,
+      "wait": 27
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "greedy",
+    "seed": 1,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 462,
+      "wait": 20,
+      "defend": 6
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "greedy",
+    "seed": 2,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 447,
+      "wait": 34,
+      "defend": 7
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "greedy",
+    "seed": 3,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 6,
+    "stall": 1,
+    "actions": {
+      "move": 467,
+      "wait": 4,
+      "defend": 11
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "aggressive",
+    "seed": 1,
+    "score": 31.7,
+    "resource": 30,
+    "damage": 473.3,
+    "missions": 2,
+    "deaths": 8,
+    "stall": 1,
+    "actions": {
+      "move": 446,
+      "wait": 4,
+      "attack": 29
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "aggressive",
+    "seed": 2,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 900.0,
+    "missions": 2,
+    "deaths": 10,
+    "stall": 1,
+    "actions": {
+      "move": 423,
+      "wait": 4,
+      "attack": 43
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "aggressive",
+    "seed": 3,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 780.0,
+    "missions": 2,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 439,
+      "wait": 7,
+      "attack": 33
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "conservative",
+    "seed": 1,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 5,
+    "stall": 1,
+    "actions": {
+      "move": 471,
+      "wait": 9,
+      "defend": 5
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "conservative",
+    "seed": 2,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 3,
+    "stall": 1,
+    "actions": {
+      "move": 490,
+      "wait": 4
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "conservative",
+    "seed": 3,
+    "score": 17.5,
+    "resource": 30,
+    "damage": 0.0,
+    "missions": 2,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 460,
+      "wait": 24,
+      "defend": 4
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "balanced",
+    "seed": 1,
+    "score": 32.5,
+    "resource": 30,
+    "damage": 740.0,
+    "missions": 2,
+    "deaths": 4,
+    "stall": 1,
+    "actions": {
+      "move": 446,
+      "wait": 17,
+      "attack": 21,
+      "defend": 4
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "balanced",
+    "seed": 2,
+    "score": 31.6,
+    "resource": 30,
+    "damage": 470.0,
+    "missions": 2,
+    "deaths": 7,
+    "stall": 1,
+    "actions": {
+      "move": 435,
+      "wait": 12,
+      "defend": 7,
+      "attack": 25
+    }
+  },
+  {
+    "map": "10-maze-fragments",
+    "strategy": "balanced",
+    "seed": 3,
+    "score": 23.5,
+    "resource": 30,
+    "damage": 200.0,
+    "missions": 2,
+    "deaths": 1,
+    "stall": 1,
+    "actions": {
+      "move": 471,
+      "wait": 20,
+      "defend": 2,
+      "attack": 4
+    }
+  }
+]
